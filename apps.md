@@ -19,6 +19,9 @@
 | [Sequel Pro](http://www.sequelpro.com)                | [Sequel Pro](http://www.sequelpro.com)         |
 | [SourceTree](http://www.sourcetreeapp.com)            | [Atlassian](http://atlassian.com)              |
 | [Transmit](https://panic.com/transmit)                | [Panic Inc.](https://panic.com)                |
+| [SizeUp](https://www.irradiatedsoftware.com/sizeup/)  | [Irradiated Software](https://www.irradiatedsoftware.com/)     |
+| [GluePrint](http://glueprintapp.com/)                 | [Koen Bok](http://www.http://koenbok.com/)                     |
+| [Alfred](http://www.alfredapp.com/)                   | [Running with Crayons Ltd](http://www.runningwithcrayons.com/) |
 
 ### Sharing
 | Apps                                                  | Developer                                      |
