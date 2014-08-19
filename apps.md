@@ -13,7 +13,7 @@
 | [LICEcap](http://www.cockos.com/licecap)              | [Cockos Incorporated](http://www.cockos.com)                   |
 | [Little Ipsum](http://littleipsum.com)                | [Dustin Senos](http://dustinsenos.com)                         |
 | [LiveReload](http://livereload.com)                   | [Andrey Tarantsov](http://tarantsov.com)                       |
-| [Mou](http://mouapp.com)                              | [Chen Luois](http://chenluois.com)                             |
+| [MacDown](http://macdown.uranusjr.com/)               | [Tzu-ping Chung](https://uranusjr.com)                         |
 | [Prepos](http://alphapixels.com/prepros)              | [Alpha Pixels](http://alphapixels.com/prepros)                 |
 | [Sauce Labs](https://saucelabs.com/mac)               | [Sauce Labs](https://saucelabs.com)                            |
 | [Sequel Pro](http://www.sequelpro.com)                | [Sequel Pro](http://www.sequelpro.com)                         |
